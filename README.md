@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the HSF-India/ePIC workshop! In this workshop, we will be exploring many aspects of ePIC software. This repository is intended for use within the [BinderHub environment](https://binderhub.ssl-hep.org/v2/gh/davidlange6/hsf-india-for-eic/HEAD).
+Welcome to the HSF-India/ePIC workshop! In this workshop, we will be exploring many aspects of ePIC software. This repository is intended for use within the [BinderHub environment](https://binderhub.ssl-hep.org/v2/gh/research-software-collaborations/courses-hsf-india-ePIC-May2025/HEAD).
 
 - Please follow the insturctions [here](https://docs.google.com/document/d/1CfmST2qTTp1kGkBCHG6G4w46Njo9Fh8uM_yt3sElhYo/edit?usp=sharing) to get setup on the HSF-India BinderHub
 
